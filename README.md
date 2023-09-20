@@ -1,19 +1,27 @@
 # Hi there, I'm Saad - aka [SaadRizky] 👋
 ## About me:
 - 🔭 I’m a Computer Science Bachelor of Applied Science Student 
-- 🌱 I’m currently learning in Web Development and already fluent with Java Programming 
-- 👯 I’m looking to collaborate as Software Engineer
+- 🌱 I’m currently working in Web Development, Software Engineering, Data Analytics and already fluent with Java, Javascript, and R Programming
+- 👯 I’m looking to collaborate as Junior Software Engineer, Junior Web Developer, and Junior Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: sadrizki14@gmail.com
+- 📫 How to reach me: sadrizki14@gmail.com, (62+)87885245423, 
 
 ## Education:
 
 #### 1. [Jakarta State Polytechnic](https://www.pnj.ac.id) |  Bachelor of Applied Science in Computer Science | Depok `2022-now`
-   - 1st Grade Student 
+   - 2nd Grade Student 
    - A member of Computer Information Engineering Student association
- #### 2. [Continuing Education Program–Center for Computing and Information Technology - Faculty Engineering University of Indonesia ](https://ccit.eng.ui.ac.id/) | Software Engineering Program | Depok `2022-now`
-   - 1st Grade Student 
-   - Stage 4 Learning
+#### 2. [Continuing Education Program–Center for Computing and Information Technology - Faculty Engineering University of Indonesia ](https://ccit.eng.ui.ac.id/) | Software Engineering Program | Depok `2022-now`
+   - Last Grade Student
+
+### 3. Participant of Google Professional Data Analyst Certification 
+   - September 2023 
+
+### 4. Participant of IDCamp 2023 Awardee
+   - September 2023 
+
+### 5. Participant of Google Professional IT-Support Certification 
+   - September 2023 
 
 
 ### Languages and Tools:
@@ -30,5 +38,5 @@
 <br />
 
 ---
-[webdev]: https://github.com/saadrizky/saadrizky
+[Project]: https://github.com/saadrizky/saadrizky
 
