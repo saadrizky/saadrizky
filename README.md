@@ -14,7 +14,7 @@
 #### 2. [Continuing Education Program–Center for Computing and Information Technology - Faculty Engineering University of Indonesia ](https://ccit.eng.ui.ac.id/) | Software Engineering Program | Depok `2022-now`
    - Last Grade Student
 
-### 3. [Participant of Google Professional Data Analyst Certification](https://www.coursera.org/professional-certificates/google-data-analytics?) | Data Analyst
+### 3. [Participant of Google Professional Data Analytics Certification](https://www.coursera.org/professional-certificates/google-data-analytics?) | Data Analyst
    - September 2023 
 
 ### 4. [Participant of IDCamp 2023 Awardee](https://idcamp.ioh.co.id/?utm_source=scholarship&utm_medium=organic+social&utm_campaign=idcamp_23_launch_sections_program) | Back-End Engineer
