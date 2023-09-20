@@ -20,7 +20,7 @@
 ### 4. [Participant of IDCamp 2023 Awardee](https://idcamp.ioh.co.id/?utm_source=scholarship&utm_medium=organic+social&utm_campaign=idcamp_23_launch_sections_program)
    - September 2023 
 
-### 5. [Participant of Google Professional IT-Support Certification] (https://www.coursera.org/professional-certificates/sertifikat-it-support-profesional-google)
+### 5. [Participant of Google Professional IT-Support Certification](https://www.coursera.org/professional-certificates/sertifikat-it-support-profesional-google)
    - September 2023 
 
 
