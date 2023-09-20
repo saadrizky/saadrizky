@@ -33,6 +33,7 @@
 [<img align="left" alt="SQL Server" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:0px;" />]
 [<img align="left" alt="HTML5" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/255px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />]
 [<img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/150px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />]
+[<img align="left" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/182px-R_logo.svg.png" style="padding-right:10px;" />]
 
 <br />
 <br />
