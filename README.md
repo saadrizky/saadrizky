@@ -1,10 +1,10 @@
 # Hi there, I'm Saad - aka [SaadRizky] 👋
 ## About me:
 - 🔭 I’m a Computer Science Bachelor of Applied Science Student 
-- 🌱 I’m currently working in Web Development, Software Engineering, Data Analytics and already fluent with Java, Javascript, and R Programming
-- 👯 I’m looking to collaborate as Junior Software Engineer, Junior Web Developer, and Junior Data Analyst
+- 🌱 I’m currently Studying in Web Development, Software Engineering, Data Science im already fluent with Java, Javascript, and Python Programming
+- 👯 I’m looking to collaborate as Junior Software Engineer, Junior Web Developer, and Junior Data Scientist
 - 💬 Ask me about anything
-- 📫 How to reach me: sadrizki14@gmail.com, (62+)87885245423, 
+- 📫 How to reach me: sadrizki14@gmail.com, (62+)81952926282, 
 
 ## Education:
 
@@ -19,9 +19,6 @@
 
 #### 1. [Google Professional Data Analytics Certification](https://www.coursera.org/professional-certificates/google-data-analytics?) | Data Analyst
    - September 2023 
-
-#### 2. [IDCamp 2023 Awardee](https://idcamp.ioh.co.id/?utm_source=scholarship&utm_medium=organic+social&utm_campaign=idcamp_23_launch_sections_program) | Back-End Engineer
-   - October 2023 
 
 #### 3. [Google Professional IT-Support Certification](https://coursera.org/verify/professional-cert/EXAC729DYF6M) | IT-Support Proffessional
    - September 2023
